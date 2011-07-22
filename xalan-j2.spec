@@ -249,6 +249,9 @@ update-alternatives --install %{_javadir}/jaxp_transform_impl.jar \
 %{_datadir}/%{name}
 
 %changelog
+* Thu Jul 21 2011 Mike Adams <shalkie@gooseproject.org> 0:2.7.0-9.8
+- Initial build for GoOSe Linux 6
+
 * Tue Feb 9 2010 Alexander Kurtakov <akurtako@redhat.com> 0:2.7.0-9.8
 - Use apache-tomcat-apis instead of tomcat5-*.
 
